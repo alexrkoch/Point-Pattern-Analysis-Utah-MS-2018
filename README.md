@@ -18,6 +18,12 @@ My thesis work involved spatial point pattern analysis of channel belt features
 from the Cretaceous John Henry member of the Straight Cliffs Formation
 , outcropping in souther Utah. 
 
+[Freely-available Pre-print of my publication on earthArXiv] (https
+://eartharxiv.org/repository/view/593/)
+
+[The peer-reviewed publication is here, but is behind the JSR paywall](https
+://doi.org/10.2110/jsr.2019.60.)
+
 
 ## Amalgamation.m
 Measure amalgamation length and compare it to bottom lengths of 
